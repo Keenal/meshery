@@ -986,6 +986,7 @@ class MesheryAdapterPlayComponent extends React.Component {
                         <TextField
                           required
                           id="namespace"
+                          placeholder="default"
                           name="namespace"
                           label="Namespace"
                           fullWidth
